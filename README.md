@@ -8,4 +8,4 @@ The purpose of this project was to demostrate to the student's knowledge in clou
 - New content appears on both instance without any failures.
 - Schema explanation of the infrastructure.
 # Important Note
-Due to the fact that the AWS service select for the project was a FreeTier, the website could only run for a week.
+Due to the fact that the AWS service selected for the project was a FreeTier, the website could only run for a week.
